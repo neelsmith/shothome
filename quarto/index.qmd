@@ -1,0 +1,24 @@
+---
+title: Welcome to SHOT!
+---
+
+::: {.callout-note}
+## Current status
+
+`shot.holycross.edu` is one of the longest-running web servers at the College of the Holy Cross. In its next iteration, which is beginning to appear in fhe fall semester of 2026, it will continue to host freely available data sets and interactive apps.
+
+:::
+
+
+## Some downloadable datasets
+
+- syntactic analyses for use with Python libraries for Ancient Greek (grammatike), Latin (arsgrammatica) and Hebrew (diqduq)
+- lexica in delimited-text files with Markdown text:
+    - Lewis-Short [Latin Dictionary](https://shot.holycross.edu/lexica/ls-articles.cex)
+    - Liddell-Scott-Jones [Greek Lexicon](https://shot.holycross.edu/lexica/lsj-articles.cex)
+
+## Interactive notebooks
+
+Exported Marimo notebooks for working with Greek, Latin and Hebrew texts.
+
+- a reader for visualizing the syntax of [Cicero's *Pro Archia*](https://shot.holycross.edu/readers/proarchia/).
